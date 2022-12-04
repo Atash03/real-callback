@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-callback/static/css/main.e6c13ad2.css",
+    "main.js": "/real-callback/static/js/main.ef259031.js",
+    "index.html": "/real-callback/index.html",
+    "main.e6c13ad2.css.map": "/real-callback/static/css/main.e6c13ad2.css.map",
+    "main.ef259031.js.map": "/real-callback/static/js/main.ef259031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef259031.js"
+  ]
+}
